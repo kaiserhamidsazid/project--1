@@ -1,0 +1,22 @@
+.footer{
+    margin-top: 80px;
+    background-color: black;
+    
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+.fa-facebook{
+    color:blue;
+}
+.fa-twitter{
+    color:skyblue
+}
+.fa-instagram{
+    color: orchid;
+}
+.fa-linkedin{
+    color: blue;
+}
+a{
+    text-decoration: none;
+}

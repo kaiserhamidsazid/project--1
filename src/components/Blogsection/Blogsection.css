@@ -1,0 +1,35 @@
+
+
+.blog{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.player{
+    height: 350px;
+    width: 400px;
+    border-radius: 7px;
+}
+.div_blog{
+    margin-top: 28px;
+    line-height: 8px;
+    
+}
+.modal-dialog{
+    overflow-y: initial;
+}
+
+.modal-body{
+    max-height: 80vh;
+    overflow-y: auto;
+}
+@media only screen and (max-width: 600px) {
+    .player{
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+
+    }
+    
+}

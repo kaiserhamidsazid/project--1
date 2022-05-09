@@ -1,0 +1,54 @@
+
+.home{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+   
+    
+ }
+ .carousel{
+
+   z-index: 99999;
+
+     
+ }
+ .topbar{
+     padding: 30px;
+ }
+ img{
+     border-radius: 5px;
+ }
+ .card-body{
+     padding: 8px;
+     margin-left: 5px;
+ }
+ .ceo{
+     display: flex;
+     align-items: center;
+     gap:15px;
+ }
+ .ceoimg{
+     height: 80px;
+     width: 80px;
+     border-radius: 50%;
+ }
+ .description{
+     line-height: 5px;
+ }
+ 
+ @media only screen and (max-width: 600px) {
+     .home {
+         margin-left: 0px;
+         margin-right: 0px;
+         padding: 0px;
+     }
+     .topbar{
+         padding: 5px;
+        
+     }
+     img{
+         border-radius: 5px;
+     }
+    
+   }

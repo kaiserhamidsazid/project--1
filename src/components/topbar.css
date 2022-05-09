@@ -1,0 +1,14 @@
+.top{
+    background-color:aquamarine;
+    position: sticky;
+    top: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+.fa-solid{
+    margin-right: 8px;
+    color: goldenrod;
+}
+ul li{
+    font-weight: bold;
+}
